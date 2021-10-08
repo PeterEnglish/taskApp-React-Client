@@ -1,0 +1,22 @@
+.topbar{
+    display: flex;
+    flex-direction: row;
+    text-align:center;
+    width:100%;
+    margin-bottom: 20px;
+    background-color: #74a1da;
+    justify-content: center;
+}
+
+img{
+    border-left: 5px solid white;
+    border-right: 5px solid white;
+}
+
+.userIcon{
+    color:white;
+    height: 50px;
+    width:50px;
+    margin-left:50px;
+    padding-top:10px;
+}

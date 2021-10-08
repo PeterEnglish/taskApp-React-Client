@@ -1,0 +1,30 @@
+.taskItem{
+    
+    width: 500px;
+    margin: auto;
+    border-radius: 10px;
+    margin-top: 10px;
+
+}
+
+p{
+    margin:2px;
+}
+button{
+    width: 150px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.yellow{
+    background-color: #ffffb5;
+}
+
+.red{
+    background-color:#ffaea5;
+}
+
+.green{
+    background-color: #cce2cb;
+}

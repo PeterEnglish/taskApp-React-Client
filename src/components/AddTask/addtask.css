@@ -1,0 +1,49 @@
+.write{
+    display: flex;
+    background-color: white;
+    border-radius: 10px;
+    border: 6px solid #85a7df;
+    width:300px;
+    height:200px;
+    margin:auto;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.writeTask{
+    text-align: center;
+    
+    
+}
+
+.writeInput{
+    margin-top: 20px;
+    width:250px;
+    height:30px;
+    border-radius: 20px;
+}
+
+.button{
+    background-color: white;
+    width: 150px;
+    height:40px;
+    border-radius: 10px;
+    margin-top: 40px;
+    border-width: 0px;
+    color: #597096;
+    border: 6px solid #b6c8e4;
+}
+
+input, input:focus{
+    outline:none;
+    text-align:center;
+}
+
+select{
+    height:30px;
+    width: 100px;
+    border-radius: 15px;
+    text-align: center;
+    margin-top: 10px;
+}
